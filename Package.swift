@@ -19,7 +19,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/ReactiveX/RxSwift.git",
-            from: Version.init(stringLiteral: "6.1.0")
+            from: Version.init(stringLiteral: "5.1.1")
         ),
         .package(
             url: "https://github.com/RxSwiftCommunity/Action.git",
